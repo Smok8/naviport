@@ -73,7 +73,7 @@ Edita el archivo naviport/config.json con los datos de tu servidor:
 ---
 ![Captura de pantalla Menu](naviport/knulli-screenshot_Menu.png)
 
-![Captura de pantalla Album](naviport/knulli-screenshot_albulm.png)
+![Captura de pantalla Album](naviport/knulli-screenshot_album.png)
 
 ![Captura de pantalla playlist](naviport/knulli-screenshot_playlist.png)
 
