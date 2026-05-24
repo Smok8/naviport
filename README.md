@@ -44,6 +44,7 @@ NaviPort es un cliente nativo, ultraligero y de alto rendimiento hecho específi
 
 ## Estructura de Archivos
 
+```bash
 roms/
 └── ports/
     ├── NaviPort.sh                # Script iniciador
@@ -52,6 +53,7 @@ roms/
         ├── config.json            # Credenciales del servidor
         └── README.md              # Este manual
 
+```
 ## Configuración Inicial
 
 Edita el archivo naviport/config.json con los datos de tu servidor:
