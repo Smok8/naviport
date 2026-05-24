@@ -69,3 +69,8 @@ Edita el archivo naviport/config.json con los datos de tu servidor:
 
 ```
 *Nota: Para evitar que la pantalla se atenúe durante la escucha, asegúrate de configurar el "Tiempo de salvapantallas" en 0 (o "Nunca") desde las opciones de configuración de tu sistema operativo.*
+
+---
+
+> [!NOTE]
+> Desarrollado con ❤️ y potenciado con Inteligencia Artificial.
