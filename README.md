@@ -41,3 +41,25 @@ NaviPort es un cliente nativo, ultraligero y de alto rendimiento hecho específi
 ### Control de Volumen y Sistema
 * Botones L1 / R1: Bajar o subir el volumen del sistema un 5%.
 * Atajos del Sistema Operativo: Usar los atajos nativos (ej. Función + Volumen / Brillo) ya es 100% seguro y no colapsará la aplicación.
+
+## Estructura de Archivos
+
+roms/
+└── ports/
+    ├── NaviPort.sh                # Script iniciador
+    └── naviport/
+        ├── main.py                # Núcleo del programa
+        ├── config.json            # Credenciales del servidor
+        └── README.md              # Este manual
+
+## Configuración Inicial
+
+Edita el archivo naviport/config.json con los datos de tu servidor:
+
+{
+    "server_url": "http://192.168.1.X:4533",
+    "username": "tu_usuario",
+    "password": "tu_contraseña"
+}
+
+*Nota: Para evitar que la pantalla se atenúe durante la escucha, asegúrate de configurar el "Tiempo de salvapantallas" en 0 (o "Nunca") desde las opciones de configuración de tu sistema operativo.*
