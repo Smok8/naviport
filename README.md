@@ -58,10 +58,12 @@ roms/
 
 Edita el archivo naviport/config.json con los datos de tu servidor:
 
+```json
 {
     "server_url": "http://192.168.1.X:4533",
     "username": "tu_usuario",
     "password": "tu_contraseña"
 }
 
+```
 *Nota: Para evitar que la pantalla se atenúe durante la escucha, asegúrate de configurar el "Tiempo de salvapantallas" en 0 (o "Nunca") desde las opciones de configuración de tu sistema operativo.*
