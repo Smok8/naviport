@@ -1,0 +1,20 @@
+up = up
+down = down
+left = left
+right = right
+
+a = backspace
+b = enter
+x = y
+y = space
+
+l1 = pagedown
+r1 = pageup
+
+# Asignamos funciones útiles (Pausa y Aleatorio). 
+# gptokeyb seguirá usando Select+Start para hacer SIGKILL y salir limpio.
+#start = space
+#select = y
+
+guide = \"\"
+home = \"\"
