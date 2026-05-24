@@ -71,11 +71,11 @@ Edita el archivo naviport/config.json con los datos de tu servidor:
 *Nota: Para evitar que la pantalla se atenúe durante la escucha, asegúrate de configurar el "Tiempo de salvapantallas" en 0 (o "Nunca") desde las opciones de configuración de tu sistema operativo.*
 
 ---
-![Captura de pantalla icon](naviport/knulli-screenshot_Menu.png)
+![Captura de pantalla Menu](naviport/knulli-screenshot_Menu.png)
 
-![Captura de pantalla icon](naviport/knulli-screenshot_albulm.png)
+![Captura de pantalla Album](naviport/knulli-screenshot_albulm.png)
 
-![Captura de pantalla icon](naviport/knulli-screenshot_playlist.png)
+![Captura de pantalla playlist](naviport/knulli-screenshot_playlist.png)
 
 
 
