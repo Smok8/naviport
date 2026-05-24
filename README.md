@@ -1,5 +1,7 @@
 # NaviPort v0.3.0 Beta (PortMaster Edition)
 
+![Captura de pantalla icon](naviport/icon.png)
+
 NaviPort es un cliente nativo, ultraligero y de alto rendimiento hecho específicamente para la plataforma PortMaster. Está diseñado para reproducir música en streaming desde servidores Navidrome/Subsonic directamente en consolas portátiles ARM Linux bajo entornos de emulación (Knulli, Rocknix, ArkOS (?) etc.).
 
 ## Novedades en la v0.3.0 (Estabilidad y Controles Universales)
