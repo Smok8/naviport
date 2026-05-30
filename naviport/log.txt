@@ -1,4 +1,0 @@
-pygame 2.5.2 (SDL 2.32.8, Python 3.12.8)
-Hello from the pygame community. https://www.pygame.org/contribute.html
-[?25l[?1cMALI_CreateWindow:0x213d7130 done.
-[?25h[?0c
